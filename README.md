@@ -1,9 +1,9 @@
-Assignment 2 – Game Concepts  
+HoverCarRacer - Game Concepts  
 
 Grade: 68% (Upper Second Class)  
 
 📌 Overview  
-This was a first-year university assignment for the CO1301 – Games Concepts module.  
+This was a first-year university assignment for my Games Concepts module.  
 The project is a 3D hover car racing game developed using C++ and the TL-Engine game framework.  
 It implements realistic vehicle physics and gameplay features such as:  
 
